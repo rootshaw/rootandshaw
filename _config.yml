@@ -1,1 +1,9 @@
+title: Root
+description: We belong together.
+google_analytics: G-XN7MQXXZKR
 theme: jekyll-theme-cayman
+show_urls: true
+github:
+  root_url: https://www.imdb.com/title/tt1839578/characters/nm0009918
+  shaw_url: https://www.imdb.com/title/tt1839578/characters/nm1083404
+  description: Because somewhere<br>In your sociopathic heart<br>You know we belong together
